@@ -5,8 +5,6 @@
 
 **Repository Name:** `amazon-data-analysis`
 
-#### **README.md**
-
 ```markdown
 # Amazon Data Analysis
 
